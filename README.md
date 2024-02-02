@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Datos para Retener y Potenciar Empleados en ABC Corp
+# Proyecto de Análisis de Datos para Retener y Potenciar Empleados en ABC Corporation
 
 # Resumen
 En el competitivo entorno empresarial actual, la toma de decisiones informadas es esencial. ABC Corporation ha contratado a nuestro equipo para llevar a cabo un proyecto de análisis de datos y experimentación A/B con el objetivo de reducir la rotación de empleados y mejorar la satisfacción en el trabajo. Este README proporciona una visión general del proyecto y guía sobre las fases a seguir.
